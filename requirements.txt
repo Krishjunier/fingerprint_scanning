@@ -6,3 +6,4 @@ keras==2.8.0
 matplotlib==3.2.2
 numpy==1.21.6
 pandas==1.3.5
+devops==developement+operation
